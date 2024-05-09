@@ -6,4 +6,4 @@ if num1 == 1:
     num2 = num2*2+2
     print(f"{num2}")
 else:
-    print(number*2)
+    print(number+2)
