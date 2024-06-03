@@ -1,2 +1,3 @@
-# Exercise 10
-# Your solution comes here
+time = float(input())
+angle = (time % 30) * 12
+print(angle)
