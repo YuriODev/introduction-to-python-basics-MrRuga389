@@ -1,3 +1,3 @@
-a = float(input())
-angle = (a % 30) * 12
+time = float(input())
+angle = (time % 30) * 12
 print(angle)
